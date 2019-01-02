@@ -1,2 +1,4 @@
 # hello-world
-My hello-world repository, my first repository at github ...
+
+Hello world, this is my first attempt on how to use github
+And now updating my first README.md file
